@@ -1,5 +1,5 @@
 def click():
-	print("Click!")
+	print("Click")
 
 if __name__ == "__main__":
 	click()
